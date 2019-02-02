@@ -92,7 +92,6 @@ Get-AppxPackage -name "Microsoft.BingFoodAndDrink" | Remove-AppxPackage;
 Get-AppxPackage -name "Microsoft.People" | Remove-AppxPackage;
 Get-AppxPackage -name "Microsoft.BingFinance" | Remove-AppxPackage;
 Get-AppxPackage -name "Microsoft.3DBuilder" | Remove-AppxPackage;
-Get-AppxPackage -name "Microsoft.WindowsCalculator" | Remove-AppxPackage;
 Get-AppxPackage -name "Microsoft.BingNews" | Remove-AppxPackage;
 Get-AppxPackage -name "Microsoft.XboxApp" | Remove-AppxPackage;
 Get-AppxPackage -name "Microsoft.BingSports" | Remove-AppxPackage;
