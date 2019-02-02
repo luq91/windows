@@ -1,0 +1,37 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SystemFileAssociations\.bmp\Shell\3D Edit]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SystemFileAssociations\.jpeg\Shell\3D Edit]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SystemFileAssociations\.jpe\Shell\3D Edit]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SystemFileAssociations\.jpg\Shell\3D Edit]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SystemFileAssociations\.png\Shell\3D Edit]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SystemFileAssociations\.gif\Shell\3D Edit]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SystemFileAssociations\.tif\Shell\3D Edit]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SystemFileAssociations\.tiff\Shell\3D Edit]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Blocked]
+"{e2bf9676-5f8f-435c-97eb-11607a5bedf7}"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Blocked]
+"{596AB062-B4D2-4215-9F74-E9109B0A8153}"=""
+
+[HKEY_CURRENT_USER\Software\Classes\.jpg] 
+@="PhotoViewer.FileAssoc.Tiff"
+
+[HKEY_CURRENT_USER\Software\Classes\.jpeg] 
+@="PhotoViewer.FileAssoc.Tiff" 
+
+[HKEY_CURRENT_USER\Software\Classes\.gif] 
+@="PhotoViewer.FileAssoc.Tiff" 
+
+[HKEY_CURRENT_USER\Software\Classes\.png] 
+@="PhotoViewer.FileAssoc.Tiff" 
+
+[HKEY_CURRENT_USER\Software\Classes\.bmp] 
+@="PhotoViewer.FileAssoc.Tiff" 
+
+[HKEY_CURRENT_USER\Software\Classes\.tiff] 
+@="PhotoViewer.FileAssoc.Tiff" 
+
+[HKEY_CURRENT_USER\Software\Classes\.ico] 
+@="PhotoViewer.FileAssoc.Tiff"
