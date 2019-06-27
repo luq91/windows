@@ -25,7 +25,6 @@ get-appxpackage *alarms* | remove-appxpackage;
 get-appxpackage *appconnector* | remove-appxpackage;
 get-appxpackage *appinstaller* | remove-appxpackage;
 get-appxpackage *communicationsapps* | remove-appxpackage;
-get-appxpackage *calculator* | remove-appxpackage;
 get-appxpackage *camera* | remove-appxpackage;
 get-appxpackage *feedback* | remove-appxpackage;
 get-appxpackage *zune* | remove-appxpackage;
