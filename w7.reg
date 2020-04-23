@@ -4,12 +4,14 @@ Windows Registry Editor Version 5.00
 ;-------------------------------------- context menu cleanup --------------------------------------
 ;--------------------------------------------------------------------------------------------------
 ;
+;--------------------------------------------------------------------------------------------------
 ;------------------------------------------------------------------------------------------- vlc --
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell\AddToPlaylistVLC\command]
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell\AddToPlaylistVLC]
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell\PlayWithVLC\command]
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell\PlayWithVLC]
 ;
+;--------------------------------------------------------------------------------------------------
 ;------------------------------------------------------------------------------------ share with --
 [-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\Sharing]
 [-HKEY_CLASSES_ROOT\Directory\Background\shellex\ContextMenuHandlers\Sharing]
@@ -18,6 +20,7 @@ Windows Registry Editor Version 5.00
 [-HKEY_CLASSES_ROOT\LibraryFolder\background\shellex\ContextMenuHandlers\Sharing]
 [-HKEY_CLASSES_ROOT\UserLibraryFolder\shellex\ContextMenuHandlers\Sharing]
 ;
+;--------------------------------------------------------------------------------------------------
 ;---------------------------------------------------------------------- restore previous version --
 [-HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}]
 [-HKEY_CLASSES_ROOT\CLSID\{450D8FBA-AD25-11D0-98A8-0800361B1103}\shellex\ContextMenuHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}]
@@ -28,6 +31,7 @@ Windows Registry Editor Version 5.00
 [-HKEY_CLASSES_ROOT\Directory\shellex\PropertySheetHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}]
 [-HKEY_CLASSES_ROOT\Drive\shellex\PropertySheetHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}]
 ;
+;--------------------------------------------------------------------------------------------------
 ;---------------------------------------------------------------------------- include in library --
 [-HKEY_CLASSES_ROOT\Folder\ShellEx\ContextMenuHandlers\Library Location]
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\ShellEx\ContextMenuHandlers\Library Location]
@@ -38,6 +42,7 @@ Windows Registry Editor Version 5.00
 ;------------------------------------ napiprojekt context edit ------------------------------------
 ;--------------------------- there are some chances to success.. perhaps --------------------------
 ;
+;--------------------------------------------------------------------------------------------------
 ;--------------------------------------------- folder ---------------------------------------------
 [-HKEY_CLASSES_ROOT\Directory\shell\napiprojekt\command]
 [-HKEY_CLASSES_ROOT\Directory\shell\napiprojekt]
@@ -57,7 +62,9 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\Directory\shell\napiprojekt0\command]
 @="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\" -pobierz_ang"
 ;
+;--------------------------------------------------------------------------------------------------
 ;---------------------------------------------- file ----------------------------------------------
+;--------------------------------------------------------------------------------------------------
 ;----------------------------------------------- pl -----------------------------------------------
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\3g2file\shell\napiprojekt\command]
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\3g2file\shell\napiprojekt]
@@ -372,6 +379,7 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\xvidfile\shell\napiprojekt\command]
 @="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
 
+;--------------------------------------------------------------------------------------------------
 ;------------------------------------------------------------------------ update 2020-04-24 0003 --
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3g2\shell\napiprojekt\command]
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3g2\shell\napiprojekt]
@@ -512,6 +520,7 @@ Windows Registry Editor Version 5.00
 
 
 ;
+;--------------------------------------------------------------------------------------------------
 ;----------------------------------------------- en -----------------------------------------------
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\3g2file\shell\napiprojekt0\command]
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\3g2file\shell\napiprojekt0]
@@ -826,6 +835,7 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\xvidfile\shell\napiprojekt0\command]
 @="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
 
+;--------------------------------------------------------------------------------------------------
 ;------------------------------------------------------------------------ update 2020-04-24 0006 --
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3g2\shell\napiprojekt0\command]
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3g2\shell\napiprojekt0]
