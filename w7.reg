@@ -372,6 +372,146 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\xvidfile\shell\napiprojekt\command]
 @="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
 
+;------------------------------------------------------------------------ update 2020-04-24 0003 --
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3g2\shell\napiprojekt\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3g2\shell\napiprojekt]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3gp\shell\napiprojekt\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3gp\shell\napiprojekt]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3gpp\shell\napiprojekt\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3gpp\shell\napiprojekt]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.asf\shell\napiprojekt\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.asf\shell\napiprojekt]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.avi\shell\napiprojekt\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.avi\shell\napiprojekt]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.m2ts\shell\napiprojekt\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.m2ts\shell\napiprojekt]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.m4v\shell\napiprojekt\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.m4v\shell\napiprojekt]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mov\shell\napiprojekt\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mov\shell\napiprojekt]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp2\shell\napiprojekt\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp2\shell\napiprojekt]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp2v\shell\napiprojekt\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp2v\shell\napiprojekt]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp4\shell\napiprojekt\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp4\shell\napiprojekt]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpe\shell\napiprojekt\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpe\shell\napiprojekt]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpeg\shell\napiprojekt\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpeg\shell\napiprojekt]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpg\shell\napiprojekt\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpg\shell\napiprojekt]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.ts\shell\napiprojekt\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.ts\shell\napiprojekt]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.wmv\shell\napiprojekt\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.wmv\shell\napiprojekt]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.ASF\shell\napiprojekt\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.ASF\shell\napiprojekt]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3g2\shell\napiprojekt]
+@="SUB \\ PL"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3g2\shell\napiprojekt\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3gp\shell\napiprojekt]
+@="SUB \\ PL"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3gp\shell\napiprojekt\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3gpp\shell\napiprojekt]
+@="SUB \\ PL"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3gpp\shell\napiprojekt\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.asf\shell\napiprojekt]
+@="SUB \\ PL"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.asf\shell\napiprojekt\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.avi\shell\napiprojekt]
+@="SUB \\ PL"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.avi\shell\napiprojekt\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.m2ts\shell\napiprojekt]
+@="SUB \\ PL"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.m2ts\shell\napiprojekt\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.m4v\shell\napiprojekt]
+@="SUB \\ PL"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.m4v\shell\napiprojekt\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mov\shell\napiprojekt]
+@="SUB \\ PL"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mov\shell\napiprojekt\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp2\shell\napiprojekt]
+@="SUB \\ PL"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp2\shell\napiprojekt\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp2v\shell\napiprojekt]
+@="SUB \\ PL"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp2v\shell\napiprojekt\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp4\shell\napiprojekt]
+@="SUB \\ PL"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp4\shell\napiprojekt\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpe\shell\napiprojekt]
+@="SUB \\ PL"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpe\shell\napiprojekt\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpeg\shell\napiprojekt]
+@="SUB \\ PL"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpeg\shell\napiprojekt\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpg\shell\napiprojekt]
+@="SUB \\ PL"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpg\shell\napiprojekt\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.ts\shell\napiprojekt]
+@="SUB \\ PL"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.ts\shell\napiprojekt\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.wmv\shell\napiprojekt]
+@="SUB \\ PL"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.wmv\shell\napiprojekt\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.ASF\shell\napiprojekt]
+@="SUB \\ PL"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.ASF\shell\napiprojekt\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+
+;
 ;----------------------------------------------- en -----------------------------------------------
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\3g2file\shell\napiprojekt0\command]
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\3g2file\shell\napiprojekt0]
@@ -685,3 +825,142 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\xvidfile\shell\napiprojekt0\command]
 @="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+;------------------------------------------------------------------------ update 2020-04-24 0006 --
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3g2\shell\napiprojekt0\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3g2\shell\napiprojekt0]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3gp\shell\napiprojekt0\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3gp\shell\napiprojekt0]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3gpp\shell\napiprojekt0\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3gpp\shell\napiprojekt0]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.asf\shell\napiprojekt0\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.asf\shell\napiprojekt0]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.avi\shell\napiprojekt0\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.avi\shell\napiprojekt0]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.m2ts\shell\napiprojekt0\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.m2ts\shell\napiprojekt0]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.m4v\shell\napiprojekt0\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.m4v\shell\napiprojekt0]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mov\shell\napiprojekt0\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mov\shell\napiprojekt0]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp2\shell\napiprojekt0\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp2\shell\napiprojekt0]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp2v\shell\napiprojekt0\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp2v\shell\napiprojekt0]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp4\shell\napiprojekt0\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp4\shell\napiprojekt0]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpe\shell\napiprojekt0\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpe\shell\napiprojekt0]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpeg\shell\napiprojekt0\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpeg\shell\napiprojekt0]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpg\shell\napiprojekt0\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpg\shell\napiprojekt0]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.ts\shell\napiprojekt0\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.ts\shell\napiprojekt0]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.wmv\shell\napiprojekt0\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.wmv\shell\napiprojekt0]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.ASF\shell\napiprojekt0\command]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.ASF\shell\napiprojekt0]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3g2\shell\napiprojekt0]
+@="SUB \\ EN"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3g2\shell\napiprojekt0\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3gp\shell\napiprojekt0]
+@="SUB \\ EN"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3gp\shell\napiprojekt0\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3gpp\shell\napiprojekt0]
+@="SUB \\ EN"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.3gpp\shell\napiprojekt0\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.asf\shell\napiprojekt0]
+@="SUB \\ EN"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.asf\shell\napiprojekt0\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.avi\shell\napiprojekt0]
+@="SUB \\ EN"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.avi\shell\napiprojekt0\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.m2ts\shell\napiprojekt0]
+@="SUB \\ EN"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.m2ts\shell\napiprojekt0\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.m4v\shell\napiprojekt0]
+@="SUB \\ EN"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.m4v\shell\napiprojekt0\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mov\shell\napiprojekt0]
+@="SUB \\ EN"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mov\shell\napiprojekt0\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp2\shell\napiprojekt0]
+@="SUB \\ EN"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp2\shell\napiprojekt0\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp2v\shell\napiprojekt0]
+@="SUB \\ EN"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp2v\shell\napiprojekt0\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp4\shell\napiprojekt0]
+@="SUB \\ EN"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mp4\shell\napiprojekt0\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpe\shell\napiprojekt0]
+@="SUB \\ EN"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpe\shell\napiprojekt0\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpeg\shell\napiprojekt0]
+@="SUB \\ EN"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpeg\shell\napiprojekt0\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpg\shell\napiprojekt0]
+@="SUB \\ EN"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.mpg\shell\napiprojekt0\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.ts\shell\napiprojekt0]
+@="SUB \\ EN"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.ts\shell\napiprojekt0\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.wmv\shell\napiprojekt0]
+@="SUB \\ EN"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\VLC.wmv\shell\napiprojekt0\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.ASF\shell\napiprojekt0]
+@="SUB \\ EN"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WMP11.AssocFile.ASF\shell\napiprojekt0\command]
+@="\"C:\\Program Files (x86)\\NapiProjekt\\napisy.exe\" \"%1\""
+
