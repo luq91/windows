@@ -107,3 +107,4 @@ Get-AppxPackage -name "Microsoft.WindowsPhone" | Remove-AppxPackage;
 Get-AppxPackage -allusers Microsoft.549981C3F5F10 | Remove-AppxPackage
 Get-AppxPackage -allusers Microsoft.549981C3F5F10 | Remove-AppxPackage
 Get-AppxPackage -allusers Microsoft.MixedReality.Portal | Remove-AppPackage
+Get-AppxPackage -allusers Microsoft.ScreenSketch | Remove-AppPackage
