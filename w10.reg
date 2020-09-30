@@ -96,3 +96,7 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\AllFilesystemObjects\shell\SPFS.ContextMenu]
 
+;--------------------------------------------------------------------------------------------------
+;---------------------------------------------------------------------------- include in library --
+[-HKEY_CLASSES_ROOT\Folder\ShellEx\ContextMenuHandlers\Library Location]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\ShellEx\ContextMenuHandlers\Library Location]
