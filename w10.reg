@@ -100,3 +100,9 @@ Windows Registry Editor Version 5.00
 ;---------------------------------------------------------------------------- include in library --
 [-HKEY_CLASSES_ROOT\Folder\ShellEx\ContextMenuHandlers\Library Location]
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\ShellEx\ContextMenuHandlers\Library Location]
+;
+;--------------------------------------------------------------------------------------------------
+;--------------------------------------------------------------------------------- cast to device -
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Blocked]
+"{7AD84985-87B4-4a16-BE58-8B72A5B390F7}"=""
+;
