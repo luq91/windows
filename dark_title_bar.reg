@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+;--------------------------------------------------------------------------------------------------
+;--------------------------------------------------------------------------------- dark title bar -
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\DWM]
+"ColorPrevalence" = dword:1
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\DWM]
+"AccentColor" = dword:0d0d0d
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\DWM]
+"AccentColorInactive" = dword:222222
+;
